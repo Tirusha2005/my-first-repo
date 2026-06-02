@@ -1,9 +1,6 @@
-# my-first-repo
+## What I Learned Today
 
-# My First Repository
-A begnner GitHb the workshop
-created during the workshop
+I am currently attending a GitHub workshop.
+Today I learned about: - Version control - creating a repositor - The edit-commit-push cycle
 
-## About Me 
-My name is **Tirusha.**
-I am learning GitHub
+My GitHub profile: https://github.com/tirusha2005
